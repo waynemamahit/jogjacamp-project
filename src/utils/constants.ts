@@ -1,0 +1,1 @@
+export const BASE_URL = "http://apikab.jcamp.pt/public/api/v1/reference/";
